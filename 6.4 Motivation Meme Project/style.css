@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+}
+div{
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 450px;
+    font-family: "Libre Baskerville", serif;
+}
+img{
+    height:200px;
+    border:white solid; 
+    border-width: 5px
+}
